@@ -1,0 +1,33 @@
+Output dir: /Users/aydin/dropbox/c64/63.nops/bin
+parsing
+flex pass 1
+flex pass 2
+flex pass 3
+Output pass
+  SID at 1000
+  init=$1000
+  play=$1003
+  songs=1
+  startSong=1
+  size=$a7c
+  name=Scrollex
+  author=Antti Hannula (Flex)
+  copyright=2013 Artline Designs
+Writing prg file: /Users/aydin/dropbox/c64/63.nops/bin/63p_nops.prg
+
+Memory Map
+----------
+Default-segment:
+  $0801-$080d Basic
+  $080e-$080d Basic End
+  $0900-$0f6f Unnamed
+  $1000-$1a7b Music
+  $1b00-$1d00 Unnamed
+  $2000-$29ff Unnamed
+  $3f40-$410f Unnamed
+  $4328-$44f7 Unnamed
+  $4600-$4f36 Unnamed
+  $5000-$6c46 Unnamed
+
+Writing Vice symbol file: /Users/aydin/dropbox/c64/63.nops/bin/63p_nops.vs
+Writing Symbol file: 63p_nops.sym
