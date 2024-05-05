@@ -1,9 +1,9 @@
-## 63+ NOPs intro
+# 63+ NOPs intro
 
 These are the sources for the 63+ NOPs intro, programmed by MUNIA, presented at the Democrunch 2023.
 
 
-# Compile
+## Compile
 
 Compiling should be done with Kick Assembler. After this, first crunch the binary with exomizer
 
